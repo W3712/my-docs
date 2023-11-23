@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://W3712.github.io/sitemap.xml
+Sitemap: https://W3712.github.io/my-docs/sitemap.xml
