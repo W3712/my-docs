@@ -9,6 +9,6 @@ export default navbar([
   {
     text: "Github",
     icon: "blog",
-    link: "https://github.com/ToTryEveryThing/my-docs",
+    link: "https://github.com/W3712/my-docs",
   },
 ]);

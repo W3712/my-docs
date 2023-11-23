@@ -9,6 +9,13 @@ export default sidebar({
       collapsible: true,
       prefix: "demo/",
       children: "structure",
+    },
+    {
+      text: "hh",
+      icon: "lightbulb",
+      collapsible: true,
+      prefix: "lizi/",
+      children: "structure",
     }
   ],
 });
