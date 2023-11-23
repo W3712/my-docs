@@ -16,6 +16,15 @@ export default sidebar({
       collapsible: true,
       prefix: "lizi/",
       children: "structure",
+    },
+
+    {
+      text: "kkk",
+      icon: "lightbulb",
+      collapsible: true,
+      prefix: "lizi/",
+      children: "structure",
     }
+
   ],
 });
