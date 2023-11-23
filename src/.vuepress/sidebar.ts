@@ -22,7 +22,7 @@ export default sidebar({
       text: "kkk",
       icon: "lightbulb",
       collapsible: true,
-      prefix: "lizi/",
+      prefix: "kkk/",
       children: "structure",
     }
 
