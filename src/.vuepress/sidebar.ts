@@ -30,7 +30,7 @@ export default sidebar({
       text: "常用注解",
       icon: "lightbulb",
       collapsible: true,
-      prefix: "注解/",
+      prefix: "常用注解/",
       children: "structure",
     }
 
