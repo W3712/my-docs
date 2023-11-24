@@ -72,7 +72,7 @@ public class JwtConfiguration {
 
 ​	
 
-4、此时我们的Jwt JavaBeany已经完成了，当我们需要使用他时，要在使用它的模块的pom文件导入我们的jwtBean的坐标。（坐标在jwt模块的Pom文件中只需复制gav即可）
+4、此时我们的Jwt JavaBeany已经完成了，当我们需要使用他时，要在使用它的模块的pom文件导入我们的jwtBean的坐标。（坐标在jwt模块的Pom文件中只需复制gav即可）.
 
 ```xml
 	<groupId>com.itheima</groupId>
