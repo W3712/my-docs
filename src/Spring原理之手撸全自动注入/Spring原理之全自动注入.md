@@ -68,7 +68,7 @@ public class JwtConfiguration {
 
 3、找到我们工具类模块的resources目录，并创建META-INF夹，再在此文件夹下创建spring文件夹，最后在spring文件夹下创建org.springframework.boot.autoconfigure.AutoConfiguration.imports文件，此文件我们需要在这里面写上Configuration类的路径。
 
-<img src="C:\Users\86151\Desktop\Snipaste_2023-11-24_20-39-23.png" style="zoom:50%;" />
+<!-- <img src="C:\Users\86151\Desktop\Snipaste_2023-11-24_20-39-23.png" style="zoom:50%;" /> -->
 
 ​	
 
