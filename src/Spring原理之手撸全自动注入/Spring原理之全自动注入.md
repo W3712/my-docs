@@ -1,3 +1,14 @@
+
+---
+title: Spring原理之全自动注入
+icon: fab fa-markdown
+order: 2
+category:
+  - 使用指南
+tag:
+  - Markdown
+---
+
 # 				Spring原理之全自动注入
 
 1、先写好我们需要注入进Ioc容器的类，例子（Jwt）：
