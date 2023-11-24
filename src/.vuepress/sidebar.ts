@@ -32,6 +32,13 @@ export default sidebar({
       collapsible: true,
       prefix: "常用注解/",
       children: "structure",
+    },
+    {
+      text: "Spring原理之手撸全自动注入",
+      icon: "lightbulb",
+      collapsible: true,
+      prefix: "Spring原理之手撸全自动注入/",
+      children: "structure",
     }
 
   ],
