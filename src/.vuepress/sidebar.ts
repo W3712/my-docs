@@ -24,6 +24,14 @@ export default sidebar({
       collapsible: true,
       prefix: "kkk/",
       children: "structure",
+    },
+
+    {
+      text: "常用注解",
+      icon: "lightbulb",
+      collapsible: true,
+      prefix: "注解/",
+      children: "structure",
     }
 
   ],
