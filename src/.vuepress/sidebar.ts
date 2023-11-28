@@ -11,22 +11,6 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "hh",
-      icon: "lightbulb",
-      collapsible: true,
-      prefix: "lizi/",
-      children: "structure",
-    },
-
-    {
-      text: "kkk",
-      icon: "lightbulb",
-      collapsible: true,
-      prefix: "kkk/",
-      children: "structure",
-    },
-
-    {
       text: "常用注解",
       icon: "lightbulb",
       collapsible: true,
@@ -34,10 +18,10 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "Spring原理之手撸全自动注入",
+      text: "随心记",
       icon: "lightbulb",
       collapsible: true,
-      prefix: "Spring原理之手撸全自动注入/",
+      prefix: "随心记/",
       children: "structure",
     }
 
