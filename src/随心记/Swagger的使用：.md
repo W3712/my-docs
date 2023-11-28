@@ -1,3 +1,13 @@
+---
+title: Spring原理之全自动注入
+icon: fab fa-markdown
+order: 2
+category:
+  - 使用指南
+tag:
+  - Markdown
+---
+
 # Swagger的使用：
 
 环境配置，先导入knife4j的maven坐标，然后往配置类中加入 knife4j 相关配置，最后设置静态资源映射，否则接口文档页面无法访问
